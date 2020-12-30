@@ -1,0 +1,2 @@
+export const GET_STOCKS = 'GET_STOCKS'
+export const LOADING_STOCKS = 'LOADING_STOCKS'
