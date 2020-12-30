@@ -1,4 +1,4 @@
-# wegrix-portfolio-vue
+# wegrix-finances-vue
 
 ## Project setup
 ```
